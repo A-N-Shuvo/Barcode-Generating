@@ -1,5 +1,3 @@
----
-
 # 📦 Multiple Barcode Printing System
 
 **Windows Forms (.NET Framework 4.8) – MSSQL & Oracle Supported**
